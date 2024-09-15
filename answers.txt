@@ -1,0 +1,12 @@
+Q1: Why might be consider using git?
+
+Answer: We consider using Git because it provides a powerful version control system 
+that helps manage changes in a project’s codebase over time. Git allows developers 
+to track and record every modification, which is essential for reverting to previous 
+versions if mistakes are made. It also facilitates collaboration by enabling multiple 
+developers to work on the same project simultaneously without overwriting each other’s 
+changes, using branches to isolate and later merge updates. Additionally, Git ensures 
+that a full project history is stored, providing a safety net against data loss and 
+making it easier to identify and resolve conflicts. It also supports distributed 
+workflows, allowing teams to work remotely and asynchronously while maintaining a 
+unified codebase.
