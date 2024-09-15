@@ -20,3 +20,13 @@ learning algorithms can assist doctors in diagnosing diseases earlier, recommend
 personalized treatment plans, and improving patient care by detecting anomalies that 
 might not be visible to the human eye. This leads to more accurate diagnoses, efficient 
 treatments, and better overall healthcare outcomes.
+
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines two branches by creating a new merge commit, preserving the full 
+history of both branches, including where they diverged. This keeps the project’s development 
+timeline intact but can result in a more complex history. Rebasing, in contrast, rewrites the 
+commit history by applying your branch’s changes on top of another branch, creating a linear 
+history without merge commits. This makes the history cleaner, but it can be risky when working 
+in teams because it alters commit history.
