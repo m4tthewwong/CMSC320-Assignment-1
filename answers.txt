@@ -30,3 +30,11 @@ timeline intact but can result in a more complex history. Rebasing, in contrast,
 commit history by applying your branch’s changes on top of another branch, creating a linear 
 history without merge commits. This makes the history cleaner, but it can be risky when working 
 in teams because it alters commit history.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: During this course, I hope to improve my skills in Pandas and machine learning. I want to 
+enhance my ability to use Pandas for efficient data manipulation and cleaning, preparing real-world 
+datasets for analysis. In machine learning, I plan to deepen my understanding of building, tuning, 
+and evaluating models for tasks like classification. I would love to learn more about neural networks
+and how they work.
